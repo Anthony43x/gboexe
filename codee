@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script de enumeración avanzada estilo Metasploit
+# Script de enumeración avanzada 
 # Autor: xHadar
 # Uso: ./auto_enum_menu.sh <IP o URL>
 # Requiere: nmap, gobuster, curl, nc
